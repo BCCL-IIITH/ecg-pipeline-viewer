@@ -11,7 +11,7 @@ An interactive web application for visualizing ECG signal processing pipeline re
 
 ## Live Demo
 
-Visit the live demo: [https://yourusername.github.io/ecg-pipeline-viewer/](https://bccl-iiith.github.io/ecg-pipeline-viewer/)
+Visit the live demo: [https://bccl-iiith.github.io/ecg-pipeline-viewer/](https://bccl-iiith.github.io/ecg-pipeline-viewer/)
 
 ## Project Structure
 
